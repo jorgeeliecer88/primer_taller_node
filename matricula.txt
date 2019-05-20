@@ -1,0 +1,1 @@
+El estudiante nombre con cédula nro 12344 se ha matriculado en El curso con id 1 y nombre Programación tiene un valor de 200000 pesos y una duración de 60 horas.

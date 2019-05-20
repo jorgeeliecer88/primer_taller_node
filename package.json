@@ -1,0 +1,22 @@
+{
+  "name": "primer_taller",
+  "version": "1.0.1",
+  "description": "Primer Taller Node.js ",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "primer_taller"
+  },
+  "keywords": [
+    "primer",
+    "taller"
+  ],
+  "author": "Jorge Eliecer Perez Niño",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
